@@ -1,4 +1,4 @@
-package com.example.cmput301w24t34;
+package com.example.iconic;
 
 public class Rectangle extends Shape{
     private Integer width;
